@@ -1,0 +1,15 @@
+{
+  "name": "node-chuduc",
+  "version": "1.0.0",
+  "description": "Chu duc hoc nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "cutyduc",
+  "license": "ISC"
+}
